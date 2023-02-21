@@ -15,7 +15,7 @@
 
 body, html {
     background-color: #5f2c82;
-    overflow: hidden;
+    overflow-x:hidden ;
     height: 100vh;
     width: 100vw;
 }
